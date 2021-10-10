@@ -3,7 +3,7 @@
 👋</H1>
 
  <hr></hr>
- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨Bienvenido a mi respositorio de GitHub, disfruta.
 
 Estos són algunos de mis proyectos:
 
@@ -16,7 +16,8 @@ Estos són algunos de mis proyectos:
 - 😄 @demcor_:
 
 
-# Cheatsheet para trabajar con Git
+# Cheatsheet para trabajar con Git 
+  (mini-chuleta)
 
 | Comando | Descripción | 
 | ------- | ----------- |
