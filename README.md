@@ -1,9 +1,8 @@
-<h2> Hola,  
-  <H1 ALIGN="CENTER"> Mi nombre es Danny Medina Coronel
-👋</H1>
+
 
  <hr></hr>
- ✨Bienvenido a mi respositorio de GitHub, disfruta.
+ ✨Mi nombre es Danny Medina Coronel
+ Bienvenido a mi respositorio de GitHub, disfruta. 👋
 
 Estos són algunos de mis proyectos:
 
