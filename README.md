@@ -1,12 +1,12 @@
 
 
  <hr></hr>
- ✨Mi nombre es Danny Medina Coronel
- Bienvenido a mi respositorio de GitHub, disfruta. 👋
+ ✨Hola, mi nombre es Danny Medina Coronel
+grracias por visitar mi respositorio de GitHub, disfruta. 👋
 
 Estos són algunos de mis proyectos:
-
-- 🔭 Administrador de sistemas<hr>
+</hr>
+- 🔭 Administrador de sistemas
 - 🌱 Actualmente estudio desarrollo web...
 - 👯 Colaboro con IMI BCN
 - 🤔 Estoy investigando los agujeros negros ...
