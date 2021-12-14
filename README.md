@@ -4,16 +4,6 @@
  ✨Hola, mi nombre es Danny Medina Coronel
 grracias por visitar mi respositorio de GitHub, disfruta. 👋
 
-Estos són algunos de mis proyectos:
-</hr>
-- 🔭 Administrador de sistemas
-- 🌱 Actualmente estudio desarrollo web...
-- 👯 Colaboro con IMI BCN
-- 🤔 Estoy investigando los agujeros negros ...
-- 💬 Preguntame ...
-- 📫 Mejora mis scripts: ...
-- 😄 @demcor_:
-
 
 # Cheatsheet para trabajar con Git 
   (mini-chuleta)
