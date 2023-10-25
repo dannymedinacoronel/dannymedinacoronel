@@ -32,7 +32,7 @@ gracias por visitar mi respositorio de GitHub, disfruta.
 <!--iconos de pila tecnológica-->
 <p align="izquierda">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=amazon,ibm,androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase ,gtk,git,github,docker,materialui,cartero,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase ,gtk,git,github,docker,materialui,cartero,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
