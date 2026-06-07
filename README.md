@@ -4,8 +4,24 @@
 
 <h1 align="center">📡 [ sysadmin.unsimple_DevSecOps ] 📡</h1>
 
+<!-- CONTADORES DE VISITAS (TRIPLE PROTOCOLO) -->
+<p align="center">
+  <!-- 1. Shields.io & Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=dannymedinacoronel&label=Sistemas%20Escaneados&color=00ff66&style=flat-square" alt="Sistemas Escaneados" />
+  <!-- 2. Visitor Badge alternativo -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=dannymedinacoronel.profile" alt="Visitor Badge" />
+  <!-- 3. Laravel GitHub Profile Visit Counter Style / Badge Rápido -->
+  <img src="https://img.shields.io/badge/Laravel_Visit_Counter-Active-FF2D20?style=flat-square&logo=laravel" alt="Laravel Profile Counter" />
+</p>
+
+<!-- 4. 1990s style Visitor Counter (Estilo retro retro-hacker) -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/dannymedinacoronel/count.svg" alt="90s Visitor Counter" />
+</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/dannymedinacoronel" target="_blank">
+    <!-- Markdown Badges con Simple Icons -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dannymedinacoronel@gmail.com" target="_blank">
@@ -13,38 +29,19 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dannymedinacoronel&label=Sistemas%20Escaneados&color=00ff66&style=flat-square" alt="Sistemas Escaneados" />
-</p>
-
 ---
 
-## 💻 [ CONSOLA DE DIAGNÓSTICO DEL SISTEMA ] // Whoami
+## 💻 [ PARTICIÓŃ 0x01 // CONSOLA DE ACCESO ] 
 
 ```bash
 $ ssh admin@dannymedinacoronel -p 22
-🔐 Conexión establecida de forma segura. Descifrando bio...
-
-$ systemctl status developer_profile.service
-● developer_profile.service - Perfil de Danny Medina (unsimple DevSecOps)
-     Loaded: loaded (/etc/systemd/system/developer_profile.service; enabled; vendor preset: enabled)
-     Active: active (running) since Sun 2026-06-07 22:49:00 UTC; 4 years ago
-   Main PID: 1337 (hacker_mind)
-      Tasks: 99 (limit: unlimited)
-     CGroup: /system.slice/developer_profile.service
-             ├─1337 "Sistemas en Red e Infraestructura"
-             ├─1338 "Ciberseguridad y Hacking Ético"
-             ├─1339 "Automatización Extrema (Bash/Python/GitHub Actions)"
-             └─1340 "Despliegue y Securización de Contenedores"
+🔐 Conexión establecida. Descifrando parámetros del sistema...
 
 $ cat /etc/motd
 ========================================================================
 |  "La automatización no es solo conveniencia, es la primera defensa." |
 ========================================================================
 
-$ ls -l /habilidades/roles
-total 16
--rwxr-xr-x 1 root root 2048 Jan  1 00:00 desarrollador_lead.sh
--rwxr-xr-x 1 root root 2048 Jan  1 00:00 arquitecto_sistemas.py
--rwxr-xr-x 1 root root 2048 Jan  1 00:00 consultor_ciberseguridad.go
--rwxr-xr-x 1 root root 2048 Jan  1 00:00 programador_freelance.bin
+$ timedatectl status | grep "Time zone"
+> Time zone: UTC (Dynamic Server Time Synced)
+# SERVER TIME LIVE PROXY: Servidor de contenido dinámico activo
