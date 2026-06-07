@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=200&section=header&text=⚡%20DANNY%20MEDINA%20⚡&fontSize=55&fontColor=0c0f1d&animation=twinkling" alt="Danny Medina Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=220&section=header&text=⚡%20DANNY%20MEDINA%20⚡&fontSize=60&fontColor=0c0f1d&animation=twinkling" alt="Danny Medina Cyber Banner" />
 </p>
 
-<h1 align="center">📡 [ unsimple.DevSecOps ] 📡</h1>
+<h1 align="center">📡 [ sysadmin.unsimple_DevSecOps ] 📡</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/dannymedinacoronel" target="_blank">
@@ -19,18 +19,32 @@
 
 ---
 
-## 🛠️ [ CONSOLA DE ACCESO ] // Sobre mí
+## 💻 [ CONSOLA DE DIAGNÓSTICO DEL SISTEMA ] // Whoami
 
 ```bash
-$ whoami
-> Danny Medina Coronel | Administrador de Sistemas en Red e Infraestructura
-$ cat bio.txt
-> Enfocado en el ecosistema DevSecOps, Automatización de Scripts y Hacking Ético.
-$ ls -la /experiencia
-> total 4
-> drwxr-xr-x  2 admin  staff  128  Desarrollador, Arquitecto de Sistemas, Lider
-> drwxr-xr-x  2 admin  staff  128  Programador Freelance & Sysadmin
-$ sysctl hw.target
-> hw.target: Asegurar infraestructuras críticas, optimizar flujos CI/CD y automatizar todo.
-$ ping -c 1 dannymedinacoronel@gmail.com
-> 64 bytes from dannymedinacoronel@gmail.com: icmp_seq=1 ttl=64 time=0.042 ms
+$ ssh admin@dannymedinacoronel -p 22
+🔐 Conexión establecida de forma segura. Descifrando bio...
+
+$ systemctl status developer_profile.service
+● developer_profile.service - Perfil de Danny Medina (unsimple DevSecOps)
+     Loaded: loaded (/etc/systemd/system/developer_profile.service; enabled; vendor preset: enabled)
+     Active: active (running) since Sun 2026-06-07 22:49:00 UTC; 4 years ago
+   Main PID: 1337 (hacker_mind)
+      Tasks: 99 (limit: unlimited)
+     CGroup: /system.slice/developer_profile.service
+             ├─1337 "Sistemas en Red e Infraestructura"
+             ├─1338 "Ciberseguridad y Hacking Ético"
+             ├─1339 "Automatización Extrema (Bash/Python/GitHub Actions)"
+             └─1340 "Despliegue y Securización de Contenedores"
+
+$ cat /etc/motd
+========================================================================
+|  "La automatización no es solo conveniencia, es la primera defensa." |
+========================================================================
+
+$ ls -l /habilidades/roles
+total 16
+-rwxr-xr-x 1 root root 2048 Jan  1 00:00 desarrollador_lead.sh
+-rwxr-xr-x 1 root root 2048 Jan  1 00:00 arquitecto_sistemas.py
+-rwxr-xr-x 1 root root 2048 Jan  1 00:00 consultor_ciberseguridad.go
+-rwxr-xr-x 1 root root 2048 Jan  1 00:00 programador_freelance.bin
