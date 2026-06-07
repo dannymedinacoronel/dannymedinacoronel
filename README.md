@@ -8,10 +8,6 @@
   <a href="https://linkedin.com/in/dannymedinacoronel" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ffcc" alt="LinkedIn" />
   </a>
-  <a href="mailto:dannymedinacoronel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=ff0055" alt="Gmail" />
-  </a>
-</p>
 
 ---
 
