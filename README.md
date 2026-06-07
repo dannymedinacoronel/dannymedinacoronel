@@ -18,8 +18,6 @@
 * 💻 **Sistemas Operativos:** Especializado en auditoría de sistemas, automatización extrema de entornos y aseguramiento de infraestructuras críticas.
 * 📝 **Infiltración en el SDLC:** Mi versatilidad en roles de desarrollo, arquitectura y proyectos freelance me permite interceptar y asegurar fallos en cualquier fase del ciclo de vida del software.
 * 🚀 **Directiva actual:** Despliegue de microservicios blindados, securización de contenedores (Hardening), manipulación de datos y optimización de pipelines CI/CD.
-* 📫 **¿Hablamos?:** Escríbeme directamente a [dannymedinacoronel@gmail.com](mailto:dannymedinacoronel@gmail.com).
-
 ---
 
 ## 👨🏻‍💻 TECH_STACK: // Módulos Cargados
