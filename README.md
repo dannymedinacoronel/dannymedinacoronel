@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=glitch&text=Danny%20Medina&color=00ffcc&theme=cyberpunk&height=180&fontSize=70&animation=twinkling" alt="Danny Medina Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=900&height=100&lines=DANNY+MEDINA;%5B+NETRUNNER+%2F%2F+DEVSECOPS+%5D;CIBERSEGURIDAD+%26+ASIR" alt="Danny Medina Cyberpunk Banner" />
 </p>
 
-<h2 align="center">⚡ <code>[ NETRUNNER // DEVSECOPS SPECIALIST & ASIR ]</code> ⚡</h2>
+<h2 align="center">⚡ <code>[ STATUS: ONLINE // SYSTEM_OVERRIDE ]</code> ⚡</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/dannymedinacoronel" target="_blank">
@@ -22,6 +22,7 @@
 * 💻 **Sistemas Operativos:** Especializado en auditoría de sistemas, automatización extrema de entornos y aseguramiento de infraestructuras críticas.
 * 📝 **Infiltración en el SDLC:** Mi versatilidad en roles de desarrollo, arquitectura y proyectos freelance me permite interceptar y asegurar fallos en cualquier fase del ciclo de vida del software.
 * 🚀 **Directiva actual:** Despliegue de microservicios blindados, securización de contenedores (Hardening), manipulación de datos y optimización de pipelines CI/CD.
+* 📫 **¿Hablamos?:** Escríbeme directamente a [dannymedinacoronel@gmail.com](mailto:dannymedinacoronel@gmail.com).
 
 ---
 
