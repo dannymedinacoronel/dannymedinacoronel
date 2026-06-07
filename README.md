@@ -133,19 +133,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏪 App Tienda</h3>
+      <h3>🏪 App Multiplataforma de gestion de Tienda de ropa online</h3>
       <p>Estructura frontend modular para el despliegue de catálogos y comercios digitales ligeros.</p>
       <img src="https://img.shields.io/badge/HTML5-CSS3-orange?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>⛪ Parroquia Santa Teresa BCN</h3>
+      <h3>⛪Web Page de la Parroquia Santa Teresa BCN</h3>
       <p>Despliegue y mantenimiento de la plataforma web oficial para la comunidad de la Parroquia de Santa Teresa en Barcelona.</p>
       <img src="https://img.shields.io/badge/Web-Live-blue?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 Portfolio Valentina Arbelaez</h3>
+      <h3>🎨 Portfolio web de  Valentina Arbelaez</h3>
       <p>Diseño e implementación de porfolio web interactivo y adaptativo para exposición de marca personal.</p>
       <img src="https://img.shields.io/badge/Frontend-Showcase-ff0055?style=flat-square" />
     </td>
