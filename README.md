@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=900&height=100&lines=DANNY+MEDINA;%5B+NETRUNNER+%2F%2F+DEVSECOPS+%5D;CIBERSEGURIDAD+%26+ASIR" alt="Danny Medina Cyberpunk Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00ffcc&center=true&vCenter=true&width=900&height=100&lines=DANNY+MEDINA+Coronel;%5B+%2F%2F+DEVSECOPS+%5D;CIBERSEGURIDAD+%26+ASIR" alt="Danny Medina Cyberpunk Banner" />
 </p>
 
 <h2 align="center">⚡ <code>[ STATUS: ONLINE // SYSTEM_OVERRIDE ]</code> ⚡</h2>
