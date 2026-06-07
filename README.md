@@ -119,11 +119,6 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h4>⌨️ Scripts Autohotkey</h4>
-      <p>Repositorio privado de macros y automatización de interfaz de usuario para flujos rápidos de trabajo.</p>
-      <img src="https://img.shields.io/badge/AutoHotkey-Macros-purple?style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
       <h4>💻 Scripts Windows</h4>
       <p>Scripts de producción para administración automatizada en entornos corporativos y estaciones de trabajo.</p>
       <img src="https://img.shields.io/badge/PowerShell-Admin-blue?style=flat-square" />
@@ -163,21 +158,3 @@
     </td>
   </tr>
 </table>
-
-### 🎛️ MODS, STREAMING & APIS (Forks y Multimedia)
-* **🎬 obs-StreamFX:** *[Fork]* Efectos 3D, desenfoques y shaders avanzados para el software de codificación OBS Studio. `C++`
-* **🎵 spotify-player:** *[Fork]* Integración en tiempo real para sincronizar dinámicamente tu estado y música de Spotify directamente en el Readme de tu perfil. `Python`
-* **⚙️ Bellard & Framework Materials:** Laboratorios de pruebas sobre frameworks frontend (Angular/NodeJS con Material Design: `DAWM14UF2`, `DAWM06UF4`).
-
----
-
-## 📈 NET_STATUS: // Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannymedinacoronel&show_icons=true&theme=cyberpunk&locale=es" alt="Estadísticas de Danny" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannymedinacoronel&layout=compact&theme=cyberpunk&locale=es" alt="Lenguajes más usados" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dannymedinacoronel&theme=cyberpunk&column=7&margin-w=15" alt="Trofeos de Danny" />
-</p>
