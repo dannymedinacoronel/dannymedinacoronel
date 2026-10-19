@@ -169,16 +169,6 @@ danny@barcelona:~$ cat perfil.json
 
 ---
 
-## 🐍 Contribuciones
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannymedinacoronel/dannymedinacoronel/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannymedinacoronel/dannymedinacoronel/output/github-snake.svg" />
-    <img alt="Serpiente que se come las contribuciones" src="https://raw.githubusercontent.com/dannymedinacoronel/dannymedinacoronel/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:3b82f6,100:00ffcc&height=120&section=footer" alt="" width="100%" />
 </p>
