@@ -40,7 +40,7 @@ danny@barcelona:~$ cat perfil.json
 
 <p align="center">
   <a href="https://github.com/dannymedinacoronel/FullPagesaver-Extension">
-    <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/main/extension-chrome/docs/capturas/portada.png" alt="FullPage Saver" width="88%" />
+    <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/main/docs/capturas/portada.png" alt="FullPage Saver" width="88%" />
   </a>
 </p>
 
@@ -53,8 +53,31 @@ danny@barcelona:~$ cat perfil.json
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/fullpage-saver-%E2%80%93-guardar/igjphghlkmidddmnmlmdnhnepehpoena"><img src="https://img.shields.io/badge/➜_Instalar_gratis-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Instalar" /></a>
-  <a href="https://github.com/dannymedinacoronel/FullPagesaver-Extension"><img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código" /></a>
+  <a href="https://github.com/dannymedinacoronel/FullPagesaver-Extension/releases/latest"><img src="https://img.shields.io/badge/Descargar_ZIP-181717?style=for-the-badge&logo=github&logoColor=white" alt="Descargar" /></a>
 </p>
+
+---
+
+## 🧩 Más extensiones de Chrome
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💱 <a href="https://github.com/dannymedinacoronel/DivisaGo-Extension">Divisa&amp;Go</a></h4>
+      Conversor de divisas con calculadora, gráficos de evolución, comparación de fuentes y precios cripto. También disponible para <a href="https://github.com/dannymedinacoronel/DivisaGo-support">Windows</a>.<br/><br/>
+      <a href="https://github.com/dannymedinacoronel/DivisaGo-Extension/releases/latest"><img src="https://img.shields.io/badge/⬇_Descargar-v1.5.0-00ffcc?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Descargar Divisa&amp;Go" /></a>
+      <img src="https://img.shields.io/badge/Manifest-V3-7b2ff7?style=flat-square" alt="Manifest V3" />
+      <img src="https://img.shields.io/badge/Idiomas-6-3b82f6?style=flat-square" alt="6 idiomas" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/dannymedinacoronel/Fraseo-Extension">Fraseo</a></h4>
+      Plantillas y abreviaturas de texto: escribe <code>;hola</code> y aparece tu texto, con campos para rellenar, formato y atajos.<br/><br/>
+      <a href="https://github.com/dannymedinacoronel/Fraseo-Extension/releases/latest"><img src="https://img.shields.io/badge/⬇_Descargar-v1.3.0-00ffcc?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Descargar Fraseo" /></a>
+      <img src="https://img.shields.io/badge/Manifest-V3-7b2ff7?style=flat-square" alt="Manifest V3" />
+      <img src="https://img.shields.io/badge/Idiomas-3-3b82f6?style=flat-square" alt="3 idiomas" />
+    </td>
+  </tr>
+</table>
 
 ---
 
