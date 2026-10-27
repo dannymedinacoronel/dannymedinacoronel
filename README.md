@@ -53,6 +53,7 @@ danny@barcelona:~$ cat perfil.json
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/fullpage-saver-%E2%80%93-guardar/igjphghlkmidddmnmlmdnhnepehpoena"><img src="https://img.shields.io/badge/➜_Instalar_gratis-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Instalar" /></a>
+  <a href="https://fullpagesaver-extension.netlify.app"><img src="https://img.shields.io/badge/Web_oficial-4338ca?style=for-the-badge&logo=netlify&logoColor=white" alt="Web" /></a>
   <a href="https://github.com/dannymedinacoronel/FullPagesaver-Extension/releases/latest"><img src="https://img.shields.io/badge/Descargar_ZIP-181717?style=for-the-badge&logo=github&logoColor=white" alt="Descargar" /></a>
 </p>
 
