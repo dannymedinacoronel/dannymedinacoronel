@@ -61,9 +61,9 @@ danny@barcelona:~$ cat perfil.json
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/portada.png" alt="Presentación de FullPage Saver" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/tienda-1.png" alt="FullPage Saver en Chrome Web Store" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/vista-previa.png" alt="Vista previa de FullPage Saver" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/portada.png" alt="Presentación de FullPage Saver" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/tienda-1.png" alt="FullPage Saver en Chrome Web Store" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/vista-previa.png" alt="Vista previa de FullPage Saver" height="190" />
 </p>
 
 <p align="center">
@@ -84,9 +84,9 @@ danny@barcelona:~$ cat perfil.json
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-1-convertir-1280x800.png" alt="Conversor de Divisa&Go" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-2-calculadora-1280x800.png" alt="Calculadora de Divisa&Go" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-3-evolucion-1280x800.png" alt="Evolución de tipos en Divisa&Go" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-1-convertir-1280x800.png" alt="Conversor de Divisa&Go" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-2-calculadora-1280x800.png" alt="Calculadora de Divisa&Go" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-3-evolucion-1280x800.png" alt="Evolución de tipos en Divisa&Go" height="190" />
 </p>
 
 <p align="center">
@@ -105,9 +105,9 @@ danny@barcelona:~$ cat perfil.json
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/panel-claro.png" alt="Panel de plantillas de Fraseo" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/editor.png" alt="Editor de plantillas de Fraseo" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/ajustes.png" alt="Ajustes de Fraseo" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/panel-claro.png" alt="Panel de plantillas de Fraseo" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/editor.png" alt="Editor de plantillas de Fraseo" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/ajustes.png" alt="Ajustes de Fraseo" height="190" />
 </p>
 
 <p align="center">
@@ -127,9 +127,9 @@ danny@barcelona:~$ cat perfil.json
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/hoy.png" alt="Hoy y progreso en Pausa Bloom" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/calendario.png" alt="Calendario de Pausa Bloom" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/ajustes.png" alt="Temas y ajustes de Pausa Bloom" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/hoy.png" alt="Hoy y progreso en Pausa Bloom" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/calendario.png" alt="Calendario de Pausa Bloom" height="190" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/ajustes.png" alt="Temas y ajustes de Pausa Bloom" height="190" />
 </p>
 
 <p align="center">
