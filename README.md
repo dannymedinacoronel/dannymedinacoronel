@@ -61,6 +61,9 @@ danny@barcelona:~$ cat perfil.json
 
 ## 🧩 Más extensiones de Chrome
 
+🌐 **[Explora todas mis extensiones en el marketplace](https://dannymedinacoronel.github.io/marketplace-extensiones/)**: catálogo interactivo con capturas, novedades e instalación.
+
+
 <table>
   <tr>
     <td width="50%" valign="top">
