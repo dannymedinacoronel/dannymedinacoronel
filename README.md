@@ -36,52 +36,112 @@ danny@barcelona:~$ cat perfil.json
 
 ---
 
-## 🚀 Proyecto estrella
+## 🧩 Mis extensiones de Chrome
 
 <p align="center">
-  <a href="https://github.com/dannymedinacoronel/FullPagesaver-Extension">
-    <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/main/docs/capturas/portada.png" alt="FullPage Saver" width="88%" />
-  </a>
+  🌐 <b><a href="https://dannymedinacoronel.github.io/marketplace-extensiones/">Explora todas en el marketplace</a></b> — catálogo interactivo con capturas, novedades e instalación.
 </p>
 
-<h3 align="center">📄 FullPage Saver — guarda webs completas en HTML y PDF</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><a href="#-fullpage-saver"><b>📄 FullPage Saver</b></a><br/><sub>Guarda webs en HTML y PDF</sub></td>
+    <td align="center" width="25%"><a href="#-divisago"><b>💱 Divisa&amp;Go</b></a><br/><sub>Divisas, cripto y metales</sub></td>
+    <td align="center" width="25%"><a href="#-fraseo"><b>⚡ Fraseo</b></a><br/><sub>Plantillas y abreviaturas</sub></td>
+    <td align="center" width="25%"><a href="#-pausa-bloom"><b>🌸 Pausa Bloom</b></a><br/><sub>Descansos y jardín</sub></td>
+  </tr>
+</table>
+
+### 📄 FullPage Saver
+
+<p align="center"><i>Guarda la web entera, tal y como la ves.</i></p>
 
 <p align="center">
-  Extensión de Chrome publicada en la <b>Chrome Web Store</b>: abre menús, carga todo el contenido, quita anuncios y avisos de cookies,<br/>
-  deja elegir secciones, resaltar y anotar antes de guardar, y crea <b>PDF con texto seleccionable</b>. 7 idiomas · sin servidores · Manifest V3.
+  Abre menús, carga todo el contenido, quita anuncios y avisos de cookies, deja elegir secciones, resaltar y anotar antes de guardar,<br/>
+  y crea <b>PDF con texto seleccionable</b>. 7 idiomas · sin servidores · Manifest V3.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/portada.png" alt="Presentación de FullPage Saver" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/tienda-1.png" alt="FullPage Saver en Chrome Web Store" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/FullPagesaver-Extension/b63df417d9318de9797d7ee7621c121ccef31a9d/docs/capturas/vista-previa.png" alt="Vista previa de FullPage Saver" width="32%" />
 </p>
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/fullpage-saver-%E2%80%93-guardar/igjphghlkmidddmnmlmdnhnepehpoena"><img src="https://img.shields.io/badge/➜_Instalar_gratis-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Instalar" /></a>
   <a href="https://fullpagesaver-extension.netlify.app"><img src="https://img.shields.io/badge/Web_oficial-4338ca?style=for-the-badge&logo=netlify&logoColor=white" alt="Web" /></a>
-  <a href="https://github.com/dannymedinacoronel/FullPagesaver-Extension/releases/latest"><img src="https://img.shields.io/badge/Descargar_ZIP-181717?style=for-the-badge&logo=github&logoColor=white" alt="Descargar" /></a>
+  <a href="https://github.com/dannymedinacoronel/FullPagesaver-Extension"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
 </p>
 
 ---
 
-## 🧩 Más extensiones de Chrome
+### 💱 DivisaGo
 
-🌐 **[Explora todas mis extensiones en el marketplace](https://dannymedinacoronel.github.io/marketplace-extensiones/)**: catálogo interactivo con capturas, novedades e instalación.
+<p align="center"><i>Tu dinero, sin fronteras.</i></p>
 
+<p align="center">
+  Más de 150 divisas con referencias diarias, calculadora con márgenes, evolución de tipos, comparación de fuentes y precios de criptomonedas y metales.<br/>
+  También disponible para <a href="https://github.com/dannymedinacoronel/DivisaGo-support">Windows</a>.
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💱 <a href="https://github.com/dannymedinacoronel/DivisaGo-Extension">Divisa&amp;Go</a></h4>
-      Conversor de divisas con calculadora, gráficos de evolución, comparación de fuentes y precios cripto. También disponible para <a href="https://github.com/dannymedinacoronel/DivisaGo-support">Windows</a>.<br/><br/>
-      <a href="https://github.com/dannymedinacoronel/DivisaGo-Extension/releases/latest"><img src="https://img.shields.io/badge/⬇_Descargar-v1.5.0-00ffcc?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Descargar Divisa&amp;Go" /></a>
-      <img src="https://img.shields.io/badge/Manifest-V3-7b2ff7?style=flat-square" alt="Manifest V3" />
-      <img src="https://img.shields.io/badge/Idiomas-6-3b82f6?style=flat-square" alt="6 idiomas" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/dannymedinacoronel/Fraseo-Extension">Fraseo</a></h4>
-      Plantillas y abreviaturas de texto: escribe <code>;hola</code> y aparece tu texto, con campos para rellenar, formato y atajos.<br/><br/>
-      <a href="https://github.com/dannymedinacoronel/Fraseo-Extension/releases/latest"><img src="https://img.shields.io/badge/⬇_Descargar-v1.3.1-00ffcc?style=flat-square&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Descargar Fraseo" /></a>
-      <img src="https://img.shields.io/badge/Manifest-V3-7b2ff7?style=flat-square" alt="Manifest V3" />
-      <img src="https://img.shields.io/badge/Idiomas-3-3b82f6?style=flat-square" alt="3 idiomas" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-1-convertir-1280x800.png" alt="Conversor de Divisa&Go" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-2-calculadora-1280x800.png" alt="Calculadora de Divisa&Go" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/DivisaGo-Extension/b18e90ead874d717e74ab856cfa0b87a8e15e7cb/docs/capturas/captura-3-evolucion-1280x800.png" alt="Evolución de tipos en Divisa&Go" width="32%" />
+</p>
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/divisago/jogebdgecfomainlnogekiafnflbbfak"><img src="https://img.shields.io/badge/➜_Instalar_gratis-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Instalar Divisa&amp;Go" /></a>
+  <a href="https://github.com/dannymedinacoronel/DivisaGo-Extension"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
+</p>
+
+---
+
+### ⚡ Fraseo
+
+<p align="center"><i>Tus textos de siempre, listos con un atajo.</i></p>
+
+<p align="center">
+  Escribe <code>;hola</code> y aparece tu texto: plantillas desde el panel lateral o con abreviaturas, campos para rellenar, fecha y hora automáticas y copias de seguridad.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/panel-claro.png" alt="Panel de plantillas de Fraseo" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/editor.png" alt="Editor de plantillas de Fraseo" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Fraseo-Extension/3ce77cddfc5460c8f4beaa1c58a7950221bc1297/docs/capturas/ajustes.png" alt="Ajustes de Fraseo" width="32%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dannymedinacoronel/Fraseo-Extension/releases/latest"><img src="https://img.shields.io/badge/⬇_Descargar-v1.3.1-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Descargar Fraseo" /></a>
+  <a href="https://github.com/dannymedinacoronel/Fraseo-Extension"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
+</p>
+
+---
+
+### 🌸 Pausa Bloom
+
+<p align="center"><i>Tus descansos, a tu ritmo. Un jardín que crece contigo.</i></p>
+
+<p align="center">
+  Jornadas largas o cortas, descansos con un toque y temporizador opcional, calendario mensual, estadísticas, rachas y un jardín animado.<br/>
+  Tus datos se guardan localmente; Telegram es opcional. Chrome y Edge.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/hoy.png" alt="Hoy y progreso en Pausa Bloom" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/calendario.png" alt="Calendario de Pausa Bloom" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/ajustes.png" alt="Temas y ajustes de Pausa Bloom" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/descanso.png" alt="Registro de descansos en Pausa Bloom" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/jardin.png" alt="Jardín animado de Pausa Bloom" width="32%" />
+  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/progreso.png" alt="Estadísticas y rachas en Pausa Bloom" width="32%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dannymedinacoronel/Pausa-Bloom/releases/latest/download/PausaBloom-Chrome-Edge.zip"><img src="https://img.shields.io/badge/⬇_Descargar_ZIP-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Descargar Pausa Bloom" /></a>
+  <a href="https://github.com/dannymedinacoronel/Pausa-Bloom"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
+</p>
 
 ---
 
