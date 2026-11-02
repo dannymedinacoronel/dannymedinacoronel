@@ -133,12 +133,6 @@ danny@barcelona:~$ cat perfil.json
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/descanso.png" alt="Registro de descansos en Pausa Bloom" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/jardin.png" alt="Jardín animado de Pausa Bloom" width="32%" />
-  <img src="https://raw.githubusercontent.com/dannymedinacoronel/Pausa-Bloom/main/assets/progreso.png" alt="Estadísticas y rachas en Pausa Bloom" width="32%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/dannymedinacoronel/Pausa-Bloom/releases/latest/download/PausaBloom-Chrome-Edge.zip"><img src="https://img.shields.io/badge/⬇_Descargar_ZIP-00ffcc?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ffcc" alt="Descargar Pausa Bloom" /></a>
   <a href="https://github.com/dannymedinacoronel/Pausa-Bloom"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
 </p>
@@ -158,8 +152,8 @@ danny@barcelona:~$ cat perfil.json
 ## 📊 Telemetría
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannymedinacoronel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=7b2ff7&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannymedinacoronel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&langs_count=8&locale=es" alt="Lenguajes más usados" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dannymedinacoronel&theme=tokyonight" alt="Estadísticas de GitHub" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dannymedinacoronel&theme=tokyonight" alt="Lenguajes más usados" width="49%" />
 </p>
 
 <p align="center">
@@ -259,3 +253,5 @@ danny@barcelona:~$ cat perfil.json
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:3b82f6,100:00ffcc&height=120&section=footer" alt="" width="100%" />
 </p>
+</p>
+
