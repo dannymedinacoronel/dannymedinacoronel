@@ -254,4 +254,3 @@ danny@barcelona:~$ cat perfil.json
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:3b82f6,100:00ffcc&height=120&section=footer" alt="" width="100%" />
 </p>
 </p>
-
